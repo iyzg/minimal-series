@@ -11,4 +11,7 @@ I'm aiming for these to be the *simplest* and *cleanest* implementations possibl
 ## Roadmap
 
 - Create tree of notebooks to progress through
+- Style guide for diagrams?
+- Grand list of what each notebook should teach
+- List of future notebooks
 - Make notebooks on concepts tangential but not exactly just models (ex. entropy -> KL-divergence)
